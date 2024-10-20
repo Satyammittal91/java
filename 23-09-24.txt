@@ -1,0 +1,4 @@
+creating calculator using command line argument
+task :-> 
+1. leetcode q 242 solve on pc and leetcode also.
+2. 

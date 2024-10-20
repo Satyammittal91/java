@@ -1,0 +1,4 @@
+q- why the array is start with 0 indexing?
+q- diff b/w float and double
+q- by force how we can use extend of data type
+
